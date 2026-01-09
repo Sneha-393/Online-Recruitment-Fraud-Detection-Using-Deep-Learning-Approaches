@@ -1,0 +1,14 @@
+Dataset Description
+
+This project uses a dataset created by combining multiple publicly available
+sources related to online job postings and recruitment fraud.
+
+The originalE dataset includes job descriptions, employment details, and
+other related attributes.
+
+All datasets were preprocessed, cleaned, and merged before model training.
+
+The complete datasets are not uploaded to this repository due to licensing,
+size, and academic integrity constraints.
+
+This dataset is used strictly for educational and research purposes.
